@@ -1,5 +1,5 @@
 {
-  "name": "terminal-roguelike",
+  "name": "get-out-alive-roguelike",
   "version": "0.1.0",
   "devDependencies": {
     "grunt": "~0.4.5",
